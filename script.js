@@ -1,4 +1,4 @@
-let time = 1500,
+let time = 1000,
 currentImageIndex = 0,
 images = document.querySelectorAll(".instFoto img");
 max = images.length;
